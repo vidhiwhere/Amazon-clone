@@ -3,8 +3,7 @@
 ## 📌 Project Description
 This project is a simple **Amazon Clone** built using **HTML** and **CSS**. It replicates the basic UI structure of Amazon’s homepage, including the navigation bar, product listings, and footer. This project focuses on front-end design and layout, aiming to provide a visually similar experience to the real Amazon website.
 
-## 📸 Preview
-![('https://github.com/user-attachments/assets/c5d8d9e0-4253-4c1e-b4a7-8b71d7920899Amazon')](#) *(![Screenshot (6)]())*
+
 
 ## 🛠️ Technologies Used
 - **HTML5** - For structuring the web pages
